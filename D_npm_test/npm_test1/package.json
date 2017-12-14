@@ -1,0 +1,16 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "test descrp",
+  "main": "index.js",
+  "scripts": {
+    "test": "testtest"
+  },
+  "keywords": [
+    "testtestesr"
+  ],
+  "author": "rivkind",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}

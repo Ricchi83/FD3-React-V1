@@ -1,0 +1,16 @@
+.FilterSort
+{
+    float: left;
+}
+.FilterList{
+    height: 150px;
+    overflow-x: auto;
+    width:200px;
+    border: solid 1px black;
+    padding: 0px;
+}
+.FilterList li{
+    list-style-type: none;
+    padding: 5px;
+    border-bottom: 1px solid #aaa;
+}
