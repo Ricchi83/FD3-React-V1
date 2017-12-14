@@ -30,6 +30,7 @@ var FilterBlock = React.createClass({
       },
       
       _search: function(e){
+          
         var updatedList = this.state.allCountries;
         updatedList = updatedList.filter(function(item){
           return item.toLowerCase().search(
